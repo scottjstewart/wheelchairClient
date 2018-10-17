@@ -30,3 +30,42 @@
     transform: rotate(360deg);
   }
 }
+
+.body {
+}
+
+.jumbotron {
+  background-image: url("https://images.unsplash.com/photo-1531386450450-969f935bd522?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b0e6037f0a7cd63b48cc1562e348eb3a&auto=format&fit=crop&w=375&q=80");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+#jumbotronAbout {
+  background-image: url("https://images.unsplash.com/photo-1508847154043-be5407fcaa5a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=aefdf351f1d5314c3482f915a80baa9f&auto=format&fit=crop&w=667&q=80");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+#jumbotronContact {
+  background-image: url("https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=be4042f7cc4661f473ebc3edcdb9765a&auto=format&fit=crop&w=889&q=80");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+#whitetext {
+  color: antiquewhite;
+}
